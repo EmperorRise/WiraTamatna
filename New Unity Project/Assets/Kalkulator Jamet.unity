@@ -159,7 +159,6 @@ MonoBehaviour:
   Kurang: {fileID: 1366501996}
   Bagi: {fileID: 2087650892}
   Kali: {fileID: 1918833086}
-  Hasil: {fileID: 0}
   Clear: {fileID: 1680319451}
   Up1: {fileID: 1015317698}
   Down1: {fileID: 683645382}
@@ -239,7 +238,6 @@ MonoBehaviour:
   Kurang: {fileID: 0}
   Bagi: {fileID: 0}
   Kali: {fileID: 0}
-  Hasil: {fileID: 0}
   Clear: {fileID: 0}
   Up1: {fileID: 0}
   Down1: {fileID: 0}
@@ -870,7 +868,6 @@ MonoBehaviour:
   Kurang: {fileID: 0}
   Bagi: {fileID: 0}
   Kali: {fileID: 0}
-  Hasil: {fileID: 0}
   Clear: {fileID: 0}
   Up1: {fileID: 0}
   Down1: {fileID: 0}
@@ -1059,7 +1056,6 @@ MonoBehaviour:
   Kurang: {fileID: 0}
   Bagi: {fileID: 0}
   Kali: {fileID: 0}
-  Hasil: {fileID: 0}
   Clear: {fileID: 0}
   Up1: {fileID: 0}
   Down1: {fileID: 0}
@@ -1294,7 +1290,6 @@ MonoBehaviour:
   Kurang: {fileID: 0}
   Bagi: {fileID: 0}
   Kali: {fileID: 0}
-  Hasil: {fileID: 0}
   Clear: {fileID: 0}
   Up1: {fileID: 0}
   Down1: {fileID: 0}
@@ -1606,7 +1601,6 @@ MonoBehaviour:
   Kurang: {fileID: 0}
   Bagi: {fileID: 0}
   Kali: {fileID: 0}
-  Hasil: {fileID: 0}
   Clear: {fileID: 0}
   Up1: {fileID: 0}
   Down1: {fileID: 0}
@@ -1712,7 +1706,6 @@ MonoBehaviour:
   Kurang: {fileID: 0}
   Bagi: {fileID: 0}
   Kali: {fileID: 0}
-  Hasil: {fileID: 0}
   Clear: {fileID: 0}
   Up1: {fileID: 0}
   Down1: {fileID: 0}
@@ -1947,7 +1940,6 @@ MonoBehaviour:
   Kurang: {fileID: 0}
   Bagi: {fileID: 0}
   Kali: {fileID: 0}
-  Hasil: {fileID: 0}
   Clear: {fileID: 0}
   Up1: {fileID: 0}
   Down1: {fileID: 0}
@@ -2053,7 +2045,6 @@ MonoBehaviour:
   Kurang: {fileID: 0}
   Bagi: {fileID: 0}
   Kali: {fileID: 0}
-  Hasil: {fileID: 0}
   Clear: {fileID: 0}
   Up1: {fileID: 0}
   Down1: {fileID: 0}
@@ -2494,7 +2485,6 @@ MonoBehaviour:
   Kurang: {fileID: 0}
   Bagi: {fileID: 0}
   Kali: {fileID: 0}
-  Hasil: {fileID: 0}
   Clear: {fileID: 0}
   Up1: {fileID: 0}
   Down1: {fileID: 0}

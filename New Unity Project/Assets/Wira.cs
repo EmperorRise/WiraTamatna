@@ -15,7 +15,6 @@ public class Wira : MonoBehaviour
     public Button Kurang;
     public Button Bagi;
     public Button Kali;
-    public Button Hasil;
     public Button Clear;
     public Button Up1;
     public Button Down1;
@@ -59,6 +58,28 @@ public class Wira : MonoBehaviour
     public void TambahButton()
     {
         total = numb1 + numb2;
+        totaltxt.text = total.ToString();
+    }
+    public void KurangButton()
+    {
+        total = numb1 - numb2;
+        totaltxt.text = total.ToString();
+    }
+    public void BagiButton()
+    {
+        total = numb1 / numb2;
+        totaltxt.text = total.ToString();
+    }
+    public void KaliButton()
+    {
+        total = numb1 * numb2;
+        totaltxt.text = total.ToString();
+    }
+    public void ClearButton()
+    {
+        numb1 = numb2 = total = 0;
+        numb1txt.text = numb1.ToString();
+        numb2txt.text = numb2.ToString();
         totaltxt.text = total.ToString();
     }
 }
